@@ -1,3 +1,4 @@
+DO NOT USE IT! THIS IS WORK IN PROGRESS!
 # Profanity
   
 Profanity gem checks to see if the text contains profanity. This also check text without spaces and with extra
