@@ -22,7 +22,8 @@ Or install it yourself as:
 
 ## Usage
 
-Simply in your code call : Profanity.check("sample text") and this will return true or false
+Simply in your code call : 
+    Profanity.check("sample text") and this will return true or false
 
 ## Development
 
