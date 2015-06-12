@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["m.swiatkiewicz91@gmail.com"]
 
   spec.summary       = %q{This gem detect profanity words in text}
-  spec.description   = %q{This gem provide you to check if in text is any profanity words, text can be without white characters and this stil will be work}
-  spec.homepage      = "http://github.com/swiatkiewicz/profanity"
+  spec.description   = %q{This gem provide you to check if in text is any profanity words, text can be without white characters like space and this still will be work}
+  spec.homepage      = "http://github.com/efigence/profanity"
   spec.license       = "MIT"
   spec.test_files    = ["test/test_helper.rb", "test/profanity_test.rb"]
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or

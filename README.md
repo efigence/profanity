@@ -23,8 +23,8 @@ Or install it yourself as:
 
 ## Usage
 
-Simply in your code call :
-    <tt>Profanity.check("sample text")</tt> and this will return true or false
+Simply in your code call:
+<tt>Profanity.check("sample text")</tt> and this will return true or false
 
 ## Development
 
